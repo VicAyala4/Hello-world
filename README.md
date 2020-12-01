@@ -1,3 +1,3 @@
 # Hello-world
-Repository
-Victor here, i like cars 
+
+Victor here, i like cars and i and from Long Island New York
